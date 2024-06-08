@@ -1,0 +1,1 @@
+[![Continues Integration and Deployment](https://github.com/JinalParikh25/CI-CD-pipeline/actions/workflows/ci-cd.yaml/badge.svg)](https://github.com/JinalParikh25/CI-CD-pipeline/actions/workflows/ci-cd.yaml)
